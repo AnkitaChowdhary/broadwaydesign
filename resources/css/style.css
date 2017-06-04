@@ -33,6 +33,11 @@ h4 {
 	color: black;
 }
 
+#copyright {
+	font-size: 11px;
+	text-align: left;
+}
+
 h2,#heading {
 	font-size: 23px;
 }
@@ -41,10 +46,7 @@ p {
 	font-size: 14px;
 }
 
-#copyright {
-	font-size: 11px;
-	text-align: left;
-}
+
 
 #lastdiv {
 	background-color: dimgray;
