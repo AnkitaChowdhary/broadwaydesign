@@ -3,6 +3,11 @@ body {
 	font-family: helvetica;
 }
 
+
+a {
+	color: white;
+}
+
 #broadway {
 	font-size: 70px;
 }
@@ -45,6 +50,3 @@ p {
 	background-color: dimgray;
 }
 
-a {
-	color: white;
-}
